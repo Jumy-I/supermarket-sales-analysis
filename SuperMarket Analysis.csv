@@ -1,0 +1,14 @@
+﻿Sales by ProductLine,,,BY City,
+Row Labels,Sum of Sales,,Row Labels,Sum of Sales
+Health and beauty,"$49,193.74",,Naypyitaw,"$110,568.71"
+Home and lifestyle,"$53,861.91",,Yangon,"$106,200.37"
+Fashion accessories,"$54,305.90",,Mandalay,"$106,197.67"
+Electronic accessories,"$54,337.53",,Grand Total,"$322,966.75"
+Sports and travel,"$55,122.83",,,
+Food and beverages,"$56,144.84",,,
+Grand Total,"$322,966.75",,By CustomerType,
+By Gender,,,Row Labels,Sum of Sales
+Row Labels,Sum of Sales,,Member,"$189,694.76"
+Female,"$194,671.84",,Normal,"$133,271.99"
+Male,"$128,294.91",,Grand Total,"$322,966.75"
+Grand Total,"$322,966.75",,,
