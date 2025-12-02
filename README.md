@@ -1,5 +1,7 @@
 # Supermarket Sales Analysis (Excel Dashboard Project)
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/47cf3299-cd2f-4fb8-8313-3d759ceae532" />
+
 This project analyzes sales data from a supermarket across three cities.
 It includes data cleaning, exploratory analysis, pivot tables, KPIs, and a fully interactive Excel dashboard.
 
